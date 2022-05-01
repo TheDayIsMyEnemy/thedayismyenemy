@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-📫 You can reach me on Discord: <b>TheDayIsMyEnemy#2184</b>
-
 <!--
 **TheDayIsMyEnemy/thedayismyenemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
